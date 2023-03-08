@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\ShapeAreaCalc\ShapeAreaCalc\bin\Debug\net6.0\ShapeAreaCalc.deps.json
+C:\Users\user\source\repos\ShapeAreaCalc\ShapeAreaCalc\bin\Debug\net6.0\ShapeAreaCalc.dll
+C:\Users\user\source\repos\ShapeAreaCalc\ShapeAreaCalc\bin\Debug\net6.0\ShapeAreaCalc.pdb
+C:\Users\user\source\repos\ShapeAreaCalc\ShapeAreaCalc\obj\Debug\net6.0\ShapeAreaCalc.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ShapeAreaCalc\ShapeAreaCalc\obj\Debug\net6.0\ShapeAreaCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ShapeAreaCalc\ShapeAreaCalc\obj\Debug\net6.0\ShapeAreaCalc.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ShapeAreaCalc\ShapeAreaCalc\obj\Debug\net6.0\ShapeAreaCalc.AssemblyInfo.cs
+C:\Users\user\source\repos\ShapeAreaCalc\ShapeAreaCalc\obj\Debug\net6.0\ShapeAreaCalc.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ShapeAreaCalc\ShapeAreaCalc\obj\Debug\net6.0\ShapeAreaCalc.dll
+C:\Users\user\source\repos\ShapeAreaCalc\ShapeAreaCalc\obj\Debug\net6.0\refint\ShapeAreaCalc.dll
+C:\Users\user\source\repos\ShapeAreaCalc\ShapeAreaCalc\obj\Debug\net6.0\ShapeAreaCalc.pdb
+C:\Users\user\source\repos\ShapeAreaCalc\ShapeAreaCalc\obj\Debug\net6.0\ref\ShapeAreaCalc.dll
